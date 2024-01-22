@@ -1,4 +1,4 @@
-## USC DSCI 551 Spring 2023 (Foundations of Data Management)
+## USC DSCI 551 Spring 2024 (Foundations of Data Management)
 
 #### Description
 
