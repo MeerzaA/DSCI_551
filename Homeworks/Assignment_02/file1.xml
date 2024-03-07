@@ -1,0 +1,40 @@
+<bib>
+
+    <book id="011">
+        <author>Ally Alison</author>
+        <title>booktitle</title>
+        <year>2004</year>
+        <price>1.01</price>
+    </book>
+
+    <book id="012">
+        <author>Sam Smith</author>
+        <title>Atomic Habits</title>
+        <year>2001</year>
+        <price>1.01</price>
+    </book>
+
+    <book id="013">
+        <author>Sandy Smith</author>
+        <title>booktitle0</title>
+        <year>2004</year>
+        <price>1.11</price>
+    </book>
+
+    <book id="131">
+        <author>Sandy Smith</author>
+        <title>booktitle0</title>
+    </book>
+
+    <book id="132">
+        <title>booktitle0</title>
+        <year>2004</year>
+    </book>
+
+    <book id="005">
+        <author>John Smithh</author>
+        <title>Atomic Habits</title>
+        <year>2023</year>
+        <price>60</price>
+    </book>
+</bib>
