@@ -6,8 +6,8 @@ import sys
 
 # Firebase Database URLs (Replace these URLs with your actual Firebase URLs)
 DATABASE_URLS = {
-    0: "",
-    1: ""
+    0: "https://dsci551-spr24-default-rtdb.firebaseio.com/book0",
+    1: "https://dsci551-spr24-default-rtdb.firebaseio.com/book0"
 }
 
 

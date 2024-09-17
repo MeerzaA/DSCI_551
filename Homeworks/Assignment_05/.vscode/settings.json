@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Meerza\\Desktop\\Bigram\\lib\\commons-configuration-1.10.jar",
+        "c:\\Users\\Meerza\\Desktop\\Bigram\\lib\\commons-lang-2.6.jar",
+        "c:\\Users\\Meerza\\Desktop\\Bigram\\lib\\commons-logging-1.2.jar",
+        "c:\\Users\\Meerza\\Desktop\\Bigram\\lib\\hadoop-core-1.2.1.jar",
+        "c:\\Users\\Meerza\\Desktop\\Bigram\\lib\\org.codehaus.jackson.core.jar",
+        "c:\\Users\\Meerza\\Desktop\\Bigram\\lib\\org.codehaus.jackson.mapper.jar",
+        "c:\\Users\\Meerza\\Desktop\\Bigram\\lib\\org.apache.commons.httpclient.jar\\org.apache.commons.httpclient.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
